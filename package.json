@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "fra",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+     "url": "https://github.com/francescoCalvi-lab/lacerba-first-project"
+  }
 }
